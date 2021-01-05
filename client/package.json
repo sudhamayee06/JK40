@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-core": "6.25.0",
     "mocha": "5.0.5",
     "mocha-js-reporter": "1.2.0",
